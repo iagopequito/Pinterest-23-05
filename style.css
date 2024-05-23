@@ -73,7 +73,7 @@
     padding-top: 60px;
     padding-bottom: 60px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 a {
     color: #FFFFFF;
